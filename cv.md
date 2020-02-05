@@ -11,6 +11,7 @@ I like learning something new and really want to change my sphere of activity.
 * GIT
 * BEM
 * Javascript Basics
+
 ## Expirience
 Coding landing pages, coding tests at Codewars. 
 ## Education
