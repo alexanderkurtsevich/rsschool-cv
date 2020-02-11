@@ -1,0 +1,18 @@
+section {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol", 'Helvetica Neue', sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 1.25;  
+}
